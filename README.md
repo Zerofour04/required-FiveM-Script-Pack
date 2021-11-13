@@ -1,0 +1,1 @@
+# required-FiveM-Script-Pack
